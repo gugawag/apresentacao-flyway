@@ -1,0 +1,1 @@
+insert into tb_usuario values('00292948584', 'Francisco das Chagas')
